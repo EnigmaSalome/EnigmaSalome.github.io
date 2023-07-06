@@ -1,0 +1,31 @@
+---
+title: "Salomé Carcy \n (she/her)"
+image: "profilepic.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/salom%C3%A9-c-b93621186/"
+  - label: Twitter
+    url: "https://twitter.com/CarcySalome"
+  - label: GitHub
+    url: "https://github.com/EnigmaSalome"
+output:
+  postcards::trestles
+---
+ 
+## About myself
+
+I'm a French medical student currently doing a PhD at Cold Spring Harbor Laboratory ([CSHL](https://www.cshl.edu/)). I'm working in the [Meyer lab](https://meyer-lab-cshl.github.io/), studying how the development of different T cell lineages is regulated in the human thymus.
+
+## Education
+
+**CSHL School of Biological Sciences** (Cold Spring Harbor, USA) | PhD in Biological Sciences | August 2020 - Now
+
+**École Normale Supérieure PSL** (Paris, France) | Master IMaLiS | September 2017 - June 2020
+
+**Faculté de médecine Paris Descartes** (Paris, France) | Medical school 3rd year | September 2017 - June 2018
+
+**Faculté de médecine et Maïeutique** (Lille, France) | Medical school 1st-2nd years | September 2015 - June 2017
+
+## Experiences
+
+**Statistical Analysis for Genome Scale Data** (Cold Spring Harbor Laboratory, USA) | July 2023
