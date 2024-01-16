@@ -8,6 +8,8 @@ links:
     url: "https://twitter.com/CarcySalome"
   - label: GitHub
     url: "https://github.com/EnigmaSalome"
+  - label: ORCiD
+    url: "https://orcid.org/0009-0009-2488-9418"
 output:
   postcards::trestles
 ---
